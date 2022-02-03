@@ -1,5 +1,5 @@
-# TuringTeam
-Jawwy TV
+## TuringTeam
+# Jawwy TV
 
 Diversifying Kingdom’s economy is vital for its sustainability. Even though oil and gas are essential pillars of the economy, the Kingdom has expanded its investments into new sectors. Moreover, one of those sectors is entertainment. The cinema industry is one of the most critical parts of the entertainment sector, but in Saudi Arabia, it is tiny because it considers a new industry. In this project, we will try to understand the audience in Saudi Arabia to help grow this field until the Saudi cinema industry reaches internationality stardom.
 
